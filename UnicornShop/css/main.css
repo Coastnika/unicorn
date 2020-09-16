@@ -30,6 +30,9 @@ ul {
 .swiper-container_2 {
   overflow-x: hidden; }
 
+.preloader {
+  z-index: 10; }
+
 .header {
   height: 950px;
   background-image: url(../img/headerback.jpg);
